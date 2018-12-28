@@ -2,7 +2,7 @@
 
 Notes for Informatics 2 - Software Engineering (INF2C-SE) at The University of Edinburgh.
 
-See [releases](https://github.com/boramalper/2c-se-notes/releases) for the most recent PDF.
+See [releases](https://github.com/boramalper/inf2c-se-notes/releases) for the most recent PDF.
 
 ## License
 
