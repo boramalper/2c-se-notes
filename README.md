@@ -1,4 +1,4 @@
-# 2c-se-notes
+# inf2c-se-notes
 
 Notes for Informatics 2 - Software Engineering (INF2C-SE) at The University of Edinburgh.
 
